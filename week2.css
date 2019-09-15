@@ -1,0 +1,40 @@
+h3
+{
+	color:(255,99,88);
+	text-align: center;
+	margin-bottom: 80px;
+	margin-top: 30px;
+}
+.aa
+{
+	background:pink;
+	text-align: right;
+	margin-left: 250px;
+	border:2px solid black;
+}
+.bb
+{
+	background:red;
+	text-align: right;
+	margin-left: 250px;
+	border:2px solid black;
+}
+.cc
+{
+	background: orange;
+	text-align: right;
+	margin-left: 250px;
+	border:2px solid black;
+}
+h5{
+	margin-bottom: 0px;
+}
+#a{
+	border:2px solid black;
+}
+#b{
+	border:2px solid black;
+}
+#c{
+	border:2px solid black;
+}
